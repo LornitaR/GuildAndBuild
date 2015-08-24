@@ -1,0 +1,82 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <style type="text/css">
+        #form1 {
+            height: 100%;
+            margin-right: 0px;
+            margin-left: 0px;
+        }
+        .logo {
+            height: 210px;
+            width: 209px;
+        }
+        .container {
+            height: 100%;
+            margin-left: 14px;
+        }
+    </style>
+    <link rel="stylesheet" type="text/css" href="StyleSheet.css"/>
+</head>
+<body style="height: 160%; width: 91%; margin-left: 0px;">
+    <form id="form2" runat="server">
+        <div class="container">
+                <div class="logo">
+                    <img id="logo" src="GuildAndBuildLogo.png" draggable="true" style="height: 215px; width: 203px; align-content : center;"/>
+                </div>
+                <div class="menu" draggable="true">
+                    <asp:Label ID="lblUser" runat="server" Font-Bold="True" Font-Names="Bodoni MT" Font-Size="Larger"></asp:Label>
+                    <asp:Button ID="btnRegister" runat="server" Text="Register" Width="106px" Font-Names="Bodoni MT" Font-Size="Medium" OnClick="btnRegister_Click" Visible="False" />&nbsp;&nbsp;&nbsp;<asp:Button ID="btnLogin" runat="server" Text="Login" Width="106px" Font-Names="Bodoni MT" Font-Size="Medium" OnClick="btnLogin_Click" Visible="False" />&nbsp;&nbsp; 
+                    <asp:Button ID="btnLogout" runat="server" Text="Logout" Width="106px" Font-Names="Bodoni MT" Font-Size="Medium" OnClick="btnLogout_Click" Visible="False" />&nbsp;&nbsp;&nbsp;<asp:Button ID="btnMyAccount" runat="server" Text="My Account" Width="106px" Font-Names="Bodoni MT" Font-Size="Medium" Visible="False" OnClick="btnMyAccount_Click" />&nbsp;&nbsp;
+                    <asp:Button ID="btnSettings" runat="server" Text="Settings" Width="106px" Font-Names="Bodoni MT" Font-Size="Medium" OnClick="btnSettings_Click" Visible="False" />&nbsp;&nbsp;&nbsp;<asp:Button ID="btnInbox" runat="server" Text="Inbox" Width="106px" Font-Names="Bodoni MT" Font-Size="Medium" OnClick="btnInbox_Click" Visible="False" />&nbsp;&nbsp; 
+                    <asp:Button ID="btnCart" runat="server" Text="My Cart" Width="106px" Font-Names="Bodoni MT" Font-Size="Medium" OnClick="btnCart_Click" Visible="False" />&nbsp;&nbsp; <asp:Button ID="btnProject" runat="server" Text="My Projects" Width="106px" Font-Names="Bodoni MT" Font-Size="Medium" OnClick="btnProject_Click" Visible="False" />&nbsp;&nbsp;&nbsp;
+                    <asp:Button ID="btnProduct" runat="server" Text="My Products" Width="106px" Font-Names="Bodoni MT" Font-Size="Medium" OnClick="btnProduct_Click" Visible="False" />&nbsp;&nbsp;<asp:Button ID="btnIssues" runat="server" Text="Issues" Width="106px" Font-Names="Bodoni MT" Font-Size="Medium" OnClick="btnIssues_Click" Visible="False" />&nbsp;&nbsp;&nbsp;&nbsp;
+                    
+                    <asp:Menu ID="MainMenu0" runat="server" style="margin-top: 47px; margin-left: 76px;" Font-Size="X-Large" ItemWrap="True" 
+                        OnMenuItemClick="MainMenu_MenuItemClick" Width="78%" Font-Names="Bodoni MT" ForeColor="Black" Height="50px" 
+                         CssClass="dynamic" Orientation="Horizontal" RenderingMode="Table">
+                        <Items>
+                            <asp:MenuItem Text="Home" Value="Home" NavigateUrl="~/Default.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="Search" Value="Search" NavigateUrl="~/Search.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="Browse" Value="Browse" NavigateUrl="~/Browse.aspx">
+                                <asp:MenuItem Text="Art" Value="Art" NavigateUrl="~/Browse.aspx?guild=1"></asp:MenuItem>
+                                <asp:MenuItem Text="Woodwork" Value="Woodwork" NavigateUrl="~/Browse.aspx?guild=2"></asp:MenuItem>
+                                <asp:MenuItem Text="Metalwork" Value="Metalwork" NavigateUrl="~/Browse.aspx?guild=3"></asp:MenuItem>
+                                <asp:MenuItem Text="Textiles" Value="Textiles" NavigateUrl="~/Browse.aspx?guild=4"></asp:MenuItem>
+                                <asp:MenuItem Text="Jewellery" Value="Jewellery" NavigateUrl="~/Browse.aspx?guild=5"></asp:MenuItem>
+                                <asp:MenuItem Text="Masonry" Value="Masonry" NavigateUrl="~/Browse.aspx?guild=6"></asp:MenuItem>
+                                <asp:MenuItem Text="Pottery" Value="Pottery" NavigateUrl="~/Browse.aspx?guild=7"></asp:MenuItem>
+                                <asp:MenuItem Text="Glass" Value="Glass" NavigateUrl="~/Browse.aspx?guild=8"></asp:MenuItem>
+                            </asp:MenuItem>
+                            <asp:MenuItem Text="Information" Value="Information" NavigateUrl="~/Information.aspx">
+                                <asp:MenuItem Text="About" Value="About" NavigateUrl="~/Information.aspx#about"></asp:MenuItem>
+                                <asp:MenuItem Text="Terms of Service" Value="Terms of Service" NavigateUrl="~/Information.aspx#termsOfService"></asp:MenuItem>
+                                <asp:MenuItem Text="Privacy Policy" Value="Privacy Policy" NavigateUrl="~/Information.aspx#privacyPolicy"></asp:MenuItem>
+                            </asp:MenuItem>
+                            <asp:MenuItem Text="Contact Us" Value="Contact Us" NavigateUrl="~/ContactUs.aspx"></asp:MenuItem>
+                        </Items>
+                        <LevelMenuItemStyles>
+                            <asp:MenuItemStyle Font-Underline="False" VerticalPadding="10px" />
+                        </LevelMenuItemStyles>
+                        <StaticMenuItemStyle VerticalPadding="5px" />
+                        <StaticMenuStyle VerticalPadding="10px" />
+                    </asp:Menu>
+            </div>
+                <br />
+                <br />
+                <div style="margin-left: 40px; margin-right: 40px">
+                    <asp:ContentPlaceHolder ID="mainContent" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+        <div class="footer">
+        <p style="font-family: 'Bodoni MT'; font-size: medium; margin-left: 2px;" accesskey="Footer">
+            Copyright Guild &amp; Build © 2015</p>
+        </div>
+    </div>
+    </form>
+    </body>
+</html>

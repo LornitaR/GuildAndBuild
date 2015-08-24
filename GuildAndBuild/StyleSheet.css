@@ -1,0 +1,167 @@
+body {
+    height:100%;
+    background-image: url("background.JPG");
+    background-size:100%;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+}
+
+.container{
+       width:80%;
+       background-color: white; 
+       opacity: 0.95;
+       border-radius:2px;
+       margin-left:14%;
+       height:100%;
+}
+
+.menu{
+    position:absolute;
+    top:25px;
+    left:417px;
+    width: 75%;
+    height: 200px;
+}
+
+p{
+    font-size : medium;
+    font-family : 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width:95%;
+}
+h1{
+    font-size : x-large;
+    font-family : 'Bodoni MT'
+}
+
+h2{
+    font-size : x-large;
+    font-family : 'Bodoni MT'
+}
+
+h3{
+    font-size : x-large;
+    font-family : 'Bodoni MT'
+}
+.footer{
+    text-align:center;
+}
+/*------Border for text entry------*/
+.border {
+    border: 5px solid;
+    border-radius: 25px;
+}
+/*------pictureWall------*/
+.pictureWall {
+    width: 1120px;
+    margin: 0px auto 50px 0px;
+    height: 917px;
+}
+/*------MEDIA QUERIES------*/
+@media screen and (max-width: 1120px) {
+    .pictureWall {width: 840px;}
+}
+ 
+@media screen and (max-width: 840px) {
+    .pictureWall {width: 560px;}
+}
+ 
+@media screen and (max-width: 560px) {
+    .pictureWall {width: 280px;}
+}
+/*------LIST------*/
+.pictureWall ul {
+    list-style-type: none;
+}
+ 
+.pictureWall li {
+    float: left;
+    position: relative;
+    width: 280px;
+    height: 187px;
+    overflow: hidden;
+}
+ 
+.pictureWall li:hover {
+    cursor: pointer;
+}
+/*------PARAGRAPH------*/
+.pictureWall li p {
+    color: transparent;
+    background: transparent;
+    font: 200 30px/187px 'Arvo', Helvetica, Arial, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+   
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 280px;
+    height: 187px; 
+ 
+ 
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+}
+ 
+.pictureWall li:hover p {
+    color: white;
+    background: #000; /*fallback for old browsers*/
+    background: rgba(0,0,0,0.7);
+}
+/*------IMAGES------*/
+.pictureWall img {
+    width: 280px;
+    height: 187px;
+   
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+}
+ 
+.pictureWall li:hover img {
+    width: 320px;
+    height: 213px;
+}
+/*------Profile Layout------*/
+#profileLayout {
+  display:inline-block;
+}
+#profileLayout .column {
+}
+#right {
+  width: 50%;
+  float:right;
+    margin-left: 0px;
+}
+#left {
+  width: 20%;          /* LC width */
+  float:left;
+}
+/*------New Project/Product Form------*/
+label{
+    display: inline-block;
+    width: 8em;
+}
+.commandButton{
+    float: right;
+}
+.workArea{
+    width: 100%;
+    height: 100%;
+}
+#projectLabels{
+    margin-left: 10%;
+    width: 30%;
+    float: left;
+    height: 100%;
+}
+#projectFields{
+    width: 60%;
+    float: right;
+    height: 100%;
+}

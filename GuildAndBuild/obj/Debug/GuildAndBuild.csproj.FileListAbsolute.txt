@@ -1,0 +1,93 @@
+C:\Users\y10115331\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\obj\Debug\GuildAndBuild.csprojResolveAssemblyReference.cache
+C:\Users\y10115331\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\obj\Debug\GuildAndBuild.pdb
+C:\Users\y10115331\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\bin\GuildAndBuild.dll
+C:\Users\y10115331\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\bin\GuildAndBuild.pdb
+C:\Users\y10115331\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\obj\Debug\GuildAndBuild.dll
+C:\Users\y10115331\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\bin\GuildAndBuild.dll.config
+C:\Users\y1010081\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\bin\GuildAndBuild.dll.config
+C:\Users\y1010081\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\bin\GuildAndBuild.dll
+C:\Users\y1010081\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\bin\GuildAndBuild.pdb
+C:\Users\y1010081\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\obj\Debug\GuildAndBuild.dll
+C:\Users\y1010081\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\obj\Debug\GuildAndBuild.pdb
+C:\Users\Lorna\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\bin\GuildAndBuild.dll.config
+C:\Users\Lorna\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\bin\GuildAndBuild.dll
+C:\Users\Lorna\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\bin\GuildAndBuild.pdb
+C:\Users\Lorna\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\obj\Debug\GuildAndBuild.csprojResolveAssemblyReference.cache
+C:\Users\Lorna\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\obj\Debug\GuildAndBuild.dll
+C:\Users\Lorna\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\obj\Debug\GuildAndBuild.pdb
+C:\Users\y0736686\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\bin\GuildAndBuild.dll.config
+C:\Users\y0736686\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\bin\GuildAndBuild.dll
+C:\Users\y0736686\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\bin\GuildAndBuild.pdb
+C:\Users\y0736686\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\obj\Debug\GuildAndBuild.csprojResolveAssemblyReference.cache
+C:\Users\y0736686\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\obj\Debug\GuildAndBuild.dll
+C:\Users\y0736686\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\obj\Debug\GuildAndBuild.pdb
+C:\Users\y1010081\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\obj\Debug\GuildAndBuild.csprojResolveAssemblyReference.cache
+C:\Users\Lorna\Google Drive\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\bin\GuildAndBuild.dll.config
+C:\Users\Lorna\Google Drive\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\bin\GuildAndBuild.dll
+C:\Users\Lorna\Google Drive\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\bin\GuildAndBuild.pdb
+C:\Users\Lorna\Google Drive\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\obj\Debug\GuildAndBuild.dll
+C:\Users\Lorna\Google Drive\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\obj\Debug\GuildAndBuild.pdb
+C:\Users\Lorna\Google Drive\Source\Repos\Software Development Project\GuildAndBuild (1)\GuildAndBuild\bin\GuildAndBuild.dll.config
+C:\Users\Lorna\Google Drive\Source\Repos\Software Development Project\GuildAndBuild (1)\GuildAndBuild\bin\GuildAndBuild.dll
+C:\Users\Lorna\Google Drive\Source\Repos\Software Development Project\GuildAndBuild (1)\GuildAndBuild\bin\GuildAndBuild.pdb
+C:\Users\Lorna\Google Drive\Source\Repos\Software Development Project\GuildAndBuild (1)\GuildAndBuild\obj\Debug\GuildAndBuild.csprojResolveAssemblyReference.cache
+C:\Users\Lorna\Google Drive\Source\Repos\Software Development Project\GuildAndBuild (1)\GuildAndBuild\obj\Debug\GuildAndBuild.dll
+C:\Users\Lorna\Google Drive\Source\Repos\Software Development Project\GuildAndBuild (1)\GuildAndBuild\obj\Debug\GuildAndBuild.pdb
+C:\Users\y1010081\Source\Repos\Software Development Project\GuildAndBuild(1)\GuildAndBuild\GuildAndBuild\bin\GuildAndBuild.dll.config
+C:\Users\y1010081\Source\Repos\Software Development Project\GuildAndBuild(1)\GuildAndBuild\GuildAndBuild\bin\GuildAndBuild.dll
+C:\Users\y1010081\Source\Repos\Software Development Project\GuildAndBuild(1)\GuildAndBuild\GuildAndBuild\bin\GuildAndBuild.pdb
+C:\Users\y1010081\Source\Repos\Software Development Project\GuildAndBuild(1)\GuildAndBuild\GuildAndBuild\obj\Debug\GuildAndBuild.dll
+C:\Users\y1010081\Source\Repos\Software Development Project\GuildAndBuild(1)\GuildAndBuild\GuildAndBuild\obj\Debug\GuildAndBuild.pdb
+C:\Users\y1010081\Source\Repos\Software Development Project\GuildAndBuild(1)\GuildAndBuild\GuildAndBuild\obj\Debug\GuildAndBuild.csprojResolveAssemblyReference.cache
+C:\Users\Lorna\Google Drive\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\obj\Debug\GuildAndBuild.csprojResolveAssemblyReference.cache
+C:\Users\y1010081\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\GuildAndBuild\bin\GuildAndBuild.dll.config
+C:\Users\y1010081\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\GuildAndBuild\bin\GuildAndBuild.dll
+C:\Users\y1010081\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\GuildAndBuild\bin\GuildAndBuild.pdb
+C:\Users\y1010081\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\GuildAndBuild\obj\Debug\GuildAndBuild.csprojResolveAssemblyReference.cache
+C:\Users\y1010081\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\GuildAndBuild\obj\Debug\GuildAndBuild.dll
+C:\Users\y1010081\Source\Repos\Software Development Project\GuildAndBuild\GuildAndBuild\GuildAndBuild\obj\Debug\GuildAndBuild.pdb
+C:\Users\y1010081\Source\Repos\GuildAndBuild\GuildAndBuild\bin\GuildAndBuild.dll.config
+C:\Users\y1010081\Source\Repos\GuildAndBuild\GuildAndBuild\bin\GuildAndBuild.dll
+C:\Users\y1010081\Source\Repos\GuildAndBuild\GuildAndBuild\bin\GuildAndBuild.pdb
+C:\Users\y1010081\Source\Repos\GuildAndBuild\GuildAndBuild\obj\Debug\GuildAndBuild.csprojResolveAssemblyReference.cache
+C:\Users\y1010081\Source\Repos\GuildAndBuild\GuildAndBuild\obj\Debug\GuildAndBuild.dll
+C:\Users\y1010081\Source\Repos\GuildAndBuild\GuildAndBuild\obj\Debug\GuildAndBuild.pdb
+H:\Semester2\C#\GuildAndBuild\GuildAndBuild\GuildAndBuild\bin\GuildAndBuild.dll.config
+H:\Semester2\C#\GuildAndBuild\GuildAndBuild\GuildAndBuild\bin\GuildAndBuild.dll
+H:\Semester2\C#\GuildAndBuild\GuildAndBuild\GuildAndBuild\bin\GuildAndBuild.pdb
+H:\Semester2\C#\GuildAndBuild\GuildAndBuild\GuildAndBuild\obj\Debug\GuildAndBuild.csprojResolveAssemblyReference.cache
+H:\Semester2\C#\GuildAndBuild\GuildAndBuild\GuildAndBuild\obj\Debug\GuildAndBuild.dll
+H:\Semester2\C#\GuildAndBuild\GuildAndBuild\GuildAndBuild\obj\Debug\GuildAndBuild.pdb
+H:\Semester2\C#\GuildAndBuild\GuildAndBuild\bin\GuildAndBuild.dll.config
+H:\Semester2\C#\GuildAndBuild\GuildAndBuild\bin\GuildAndBuild.dll
+H:\Semester2\C#\GuildAndBuild\GuildAndBuild\bin\GuildAndBuild.pdb
+H:\Semester2\C#\GuildAndBuild\GuildAndBuild\obj\Debug\GuildAndBuild.csprojResolveAssemblyReference.cache
+H:\Semester2\C#\GuildAndBuild\GuildAndBuild\obj\Debug\GuildAndBuild.dll
+H:\Semester2\C#\GuildAndBuild\GuildAndBuild\obj\Debug\GuildAndBuild.pdb
+C:\Users\Lorna\Desktop\GuildAndBuild - Copy\GuildAndBuild\bin\GuildAndBuild.dll.config
+C:\Users\Lorna\Desktop\GuildAndBuild - Copy\GuildAndBuild\bin\GuildAndBuild.dll
+C:\Users\Lorna\Desktop\GuildAndBuild - Copy\GuildAndBuild\bin\GuildAndBuild.pdb
+C:\Users\Lorna\Desktop\GuildAndBuild - Copy\GuildAndBuild\obj\Debug\GuildAndBuild.csprojResolveAssemblyReference.cache
+C:\Users\Lorna\Desktop\GuildAndBuild - Copy\GuildAndBuild\obj\Debug\GuildAndBuild.dll
+C:\Users\Lorna\Desktop\GuildAndBuild - Copy\GuildAndBuild\obj\Debug\GuildAndBuild.pdb
+C:\Users\Lorna\Desktop\GuildAndBuild - Copy - Copy\GuildAndBuild\bin\GuildAndBuild.dll.config
+C:\Users\Lorna\Desktop\GuildAndBuild - Copy - Copy\GuildAndBuild\bin\GuildAndBuild.dll
+C:\Users\Lorna\Desktop\GuildAndBuild - Copy - Copy\GuildAndBuild\bin\GuildAndBuild.pdb
+C:\Users\Lorna\Desktop\GuildAndBuild - Copy - Copy\GuildAndBuild\obj\Debug\GuildAndBuild.dll
+C:\Users\Lorna\Desktop\GuildAndBuild - Copy - Copy\GuildAndBuild\obj\Debug\GuildAndBuild.pdb
+C:\Users\cillian\Desktop\V2\GuildAndBuild - Copy - Copy\GuildAndBuild\bin\GuildAndBuild.dll.config
+C:\Users\cillian\Desktop\V2\GuildAndBuild - Copy - Copy\GuildAndBuild\bin\GuildAndBuild.dll
+C:\Users\cillian\Desktop\V2\GuildAndBuild - Copy - Copy\GuildAndBuild\bin\GuildAndBuild.pdb
+C:\Users\cillian\Desktop\V2\GuildAndBuild - Copy - Copy\GuildAndBuild\obj\Debug\GuildAndBuild.dll
+C:\Users\cillian\Desktop\V2\GuildAndBuild - Copy - Copy\GuildAndBuild\obj\Debug\GuildAndBuild.pdb
+C:\Users\cillian\Desktop\V2\GuildAndBuild - SemiFinal\GuildAndBuild\bin\GuildAndBuild.dll.config
+C:\Users\cillian\Desktop\V2\GuildAndBuild - SemiFinal\GuildAndBuild\bin\GuildAndBuild.dll
+C:\Users\cillian\Desktop\V2\GuildAndBuild - SemiFinal\GuildAndBuild\bin\GuildAndBuild.pdb
+C:\Users\cillian\Desktop\V2\GuildAndBuild - SemiFinal\GuildAndBuild\obj\Debug\GuildAndBuild.csprojResolveAssemblyReference.cache
+C:\Users\cillian\Desktop\V2\GuildAndBuild - SemiFinal\GuildAndBuild\obj\Debug\GuildAndBuild.dll
+C:\Users\cillian\Desktop\V2\GuildAndBuild - SemiFinal\GuildAndBuild\obj\Debug\GuildAndBuild.pdb
+C:\Users\y0736686\Downloads\GuildAndBuild - SemiFinal\GuildAndBuild\bin\GuildAndBuild.dll.config
+C:\Users\y0736686\Downloads\GuildAndBuild - SemiFinal\GuildAndBuild\bin\GuildAndBuild.dll
+C:\Users\y0736686\Downloads\GuildAndBuild - SemiFinal\GuildAndBuild\bin\GuildAndBuild.pdb
+C:\Users\y0736686\Downloads\GuildAndBuild - SemiFinal\GuildAndBuild\obj\Debug\GuildAndBuild.dll
+C:\Users\y0736686\Downloads\GuildAndBuild - SemiFinal\GuildAndBuild\obj\Debug\GuildAndBuild.pdb
